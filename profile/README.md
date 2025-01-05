@@ -1,7 +1,7 @@
 The [Computational Cell Analytics](https://user.informatik.uni-goettingen.de/~pape41/) group is located at the University of Göttingen and is lead by Prof. Dr Constantin Pape.
 
 We build deep learning based software for biomedical image analysis.
-Our group creates both [tools](#tools) for specific image analysis tasks and [libraries](#libraries) that offer gerneral purpose image analysis functionality.
+Our group creates both [tools](#tools) for specific image analysis tasks and [libraries](#libraries) that offer general purpose image analysis functionality.
 
 ## Tools
 
@@ -26,8 +26,8 @@ Our group creates both [tools](#tools) for specific image analysis tasks and [li
 ## Other Projects
 
 Other projects from the group:
-- ViM UNet: A segmentation architecture based on vision mamba.
-    - [Code](https://arxiv.org/abs/2404.07705)
+- ViM-UNet: A segmentation architecture based on vision mamba.
+    - [Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
     - [Publication](https://arxiv.org/abs/2404.07705)
 - Probabilistic Domain Adaptation
     - [Repository](https://github.com/computational-cell-analytics/Probabilistic-Domain-Adaptation)
