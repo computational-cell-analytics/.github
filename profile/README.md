@@ -5,7 +5,7 @@ Our group creates both [tools](#tools) for specific image analysis tasks and [li
 
 ## Tools
 
-- `micro_sam` specializes Segment Anytthing for Microscopy data by providing finetuned models and a napari plugin.
+- `micro_sam` specializes Segment Anything for Microscopy data by providing finetuned models and a napari plugin.
     - [Repository](https://github.com/computational-cell-analytics/micro-sam)
     - [Documentation](https://computational-cell-analytics.github.io/micro-sam/micro_sam.html)
     - [Publication](https://doi.org/10.1101/2023.08.21.554208)
