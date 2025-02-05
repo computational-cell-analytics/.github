@@ -1,4 +1,4 @@
-The [Computational Cell Analytics](https://user.informatik.uni-goettingen.de/~pape41/) group is located at the University of Göttingen and is lead by Prof. Dr Constantin Pape.
+The [Computational Cell Analytics](https://user.informatik.uni-goettingen.de/~pape41/) group is located at the University of Göttingen and is lead by Prof. Dr. Constantin Pape.
 
 We build deep learning based software for biomedical image analysis.
 Our group creates both [tools](#tools) for specific image analysis tasks and [libraries](#libraries) that offer general purpose image analysis functionality.
