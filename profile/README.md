@@ -8,7 +8,7 @@ Our group creates both [tools](#tools) for specific image analysis tasks and [li
 - `micro_sam` specializes Segment Anything for Microscopy data by providing finetuned models and a napari plugin.
     - [Repository](https://github.com/computational-cell-analytics/micro-sam)
     - [Documentation](https://computational-cell-analytics.github.io/micro-sam/micro_sam.html)
-    - [Publication](https://doi.org/10.1101/2023.08.21.554208)
+    - [Publication](https://www.nature.com/articles/s41592-024-02580-4)
 - `SynapseNet` offers segmentation networks and a napari plugin for analyzing synapses in electron micrographs.
     - [Repository](https://github.com/computational-cell-analytics/synapse-net)
     - [Documentation](https://computational-cell-analytics.github.io/synapse-net/)
